@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Serdar
 
-<!--
-**sersels/sersels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the founder of Smart Hub LLC, a small US software company that builds AI voice products. I design, build and run them myself, from Türkiye.
 
-Here are some ideas to get you started:
+What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+DMEReady lets FAA Airframe & Powerplant mechanic candidates rehearse the oral exam out loud in the browser. A voice examiner asks the questions and the follow-ups, and the report afterwards points to the FAA handbook pages behind each answer. Questions come only from public FAA documents.
+
+VoiceRef runs job reference checks by phone. An AI interviewer calls each reference (after they agree by text), asks structured questions, follows up on vague answers, and returns a transcript and a short report.
+
+Stack I work with: LiveKit, Pipecat, Deepgram, Cartesia, ElevenLabs, Twilio, Anthropic Claude, OpenAI, Supabase, Python/FastAPI, Render, Vercel, Cloudflare.
+
+The product code is private. Contact: serdar@joinsmarthub.com
